@@ -1,8 +1,8 @@
-LUNG CANCER DETECTION MODEL
+### LUNG CANCER DETECTION MODEL
 
 This is project is about creating lung cacer detection model using the kaggle dataset.
 
-Dataset Link
+## Dataset Link
 
 https://www.kaggle.com/datasets/nancyalaswad90/lung-cancer/data
 
