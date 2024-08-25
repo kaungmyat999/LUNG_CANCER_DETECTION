@@ -29,8 +29,10 @@ Total no. of attributes:16, No .of instances:284, Attribute information: 1.Gende
 
 ## Report of the Project :bookmark_tabs:
 
+To get overviewplease checkout the Project Report file.
 https://github.com/kaungmyat999/LUNG_CANCER_DETECTION/blob/main/REPORT%20OF%20LUNG%20CANCER%20DETECTION%20MODEL%20EVALUATION.pdf
 
+For detail implementation: [Notebook](https://github.com/kaungmyat999/LUNG_CANCER_DETECTION/blob/main/lcp.ipynb).
 
 ## Model Performance :golf:
 
